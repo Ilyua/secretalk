@@ -1,0 +1,4 @@
+env/
+chat/migrations
+*.sqlite3
+*/__pycache__
